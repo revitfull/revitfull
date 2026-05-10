@@ -1,6 +1,14 @@
-## Hi there 👋
+# RevitFull
 
-*Edit this later*
+A Java-based repository containing Data Structures & Algorithms practice, coding interview problems, and problem-solving implementations.
+
+Currently focused on:
+- Java fundamentals
+- DSA
+- Competitive programming style questions
+- Interview preparation
+
+I am continuously improving this repository while learning backend development and software engineering concepts.
 
 <!--
 **revitfull/revitfull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
