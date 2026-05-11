@@ -5,7 +5,6 @@ A Java-based repository containing Data Structures & Algorithms practice, coding
 Currently focused on:
 - Java fundamentals
 - DSA
-- Competitive programming style questions
 - Interview preparation
 
 I am continuously improving this repository while learning backend development and software engineering concepts.
